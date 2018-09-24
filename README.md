@@ -8,3 +8,6 @@ List of NLP Datasets
 
 ### CoReference Datasets
 1. **(OntoNotes Dataset 5.0)** OntoNotes Release 5.0 [[LDC Data]](https://catalog.ldc.upenn.edu/ldc2013t19) [[CONLL 2012 DATA]](http://conll.cemantix.org/2012/data.html)
+
+### Miscellaneous
+1. **(Multimodal comprehension)** RecipeQA [[Webpage]](https://hucvl.github.io/recipeqa/) [[Paper]](https://arxiv.org/pdf/1809.00812.pdf)
