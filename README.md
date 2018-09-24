@@ -1,5 +1,5 @@
 # NLP-Datasets
-List of NLP Datasets
+Datasets I come across in my NLP journey
 
 ### Dialog Datasets
 1. **(Ubuntu Dialogue Corpus)** The Ubuntu Dialogue Corpus : A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems, 2015 [[Paper]](https://arxiv.org/abs/1506.08909) [[Data]](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
