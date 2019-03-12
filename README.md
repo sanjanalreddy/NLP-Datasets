@@ -1,6 +1,11 @@
 # NLP-Datasets
 List of datasets which I have come across for multiple tasks. It is work in progress and not exhaustive.
 
+
+### Single Turn Datasets
+1. **(MIT Movie Corpus)** The MIT Movie Corpus is a semantically tagged training and test corpus in BIO format. [[Dataset]](https://groups.csail.mit.edu/sls/downloads/movie/)
+2. **(MIT Restaurant Corpus)** The MIT Restaurant Corpus is a semantically tagged training and test corpus in BIO format. [[Dataset]](https://groups.csail.mit.edu/sls/downloads/restaurant/)
+
 ### Multi-Turn Dialog Datasets
 1. **(Ubuntu Dialogue Corpus)** The Ubuntu Dialogue Corpus : A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems, 2015 [[Paper]](https://arxiv.org/abs/1506.08909) [[Data]](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
 2. **(Frames)** Frames: A Corpus for Adding Memory to Goal-Oriented Dialogue Systems [[Paper]](https://arxiv.org/abs/1704.00057) [[Data]](https://datasets.maluuba.com/Frames/dl)
